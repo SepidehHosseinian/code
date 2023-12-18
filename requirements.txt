@@ -3,6 +3,8 @@ sqlalchemy<2
 flask
 psycopg2-binary
 redis
+django 
+saga_py
 
 # dev/tests
 pytest
